@@ -11,7 +11,7 @@ import javax.validation.constraints.Size;
 
 /**
  * 
- * @author Lucas Copque - 816112862
+ * @author masamiles - 16/04/2018
  *
  */
 @Entity

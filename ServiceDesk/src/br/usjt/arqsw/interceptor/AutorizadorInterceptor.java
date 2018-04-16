@@ -7,7 +7,7 @@ import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
 
 /**
  * 
- * @author Lucas Copque - 816112862
+ * @author masamiles - 16/04/2018
  *
  */
 public class AutorizadorInterceptor extends HandlerInterceptorAdapter {

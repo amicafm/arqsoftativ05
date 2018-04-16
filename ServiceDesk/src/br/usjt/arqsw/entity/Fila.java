@@ -13,7 +13,7 @@ import javax.validation.constraints.NotNull;
 
 /**
  * 
- * @author Lucas Copque - 816112862
+ * @author masamiles - 16/04/2018
  *
  */
 @Entity

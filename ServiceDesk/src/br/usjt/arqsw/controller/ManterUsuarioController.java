@@ -15,7 +15,7 @@ import br.usjt.arqsw.service.UsuarioService;
 
 /**
  * 
- * @author Lucas Copque - 816112862
+ * @author masamiles - 16/04/2018
  *
  */
 @Controller

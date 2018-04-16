@@ -23,7 +23,7 @@ import br.usjt.arqsw.service.FilaService;
 
 /**
  * 
- * @author Lucas Copque - 816112862
+ * @author masamiles - 16/04/2018
  *
  */
 @RestController
